@@ -13,13 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossary/Datum.md",
+                "file": "Stock Allowance for Machine Reaming.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7931252b9202bbf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "156b1ff099ed2747",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "dba15e5df90372fb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d0c6360581bb89a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tap Drill Size.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b6b6dd08ec08ec28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Part Diameter for Die Threading.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -48,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#threa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +114,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Glossary/Datum.md",
+                "file": "Part Diameter for Die Threading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Glossary/Datum.md",
+                "file": "Part Diameter for Die Threading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Glossary/Datum.md"
+                "file": "Part Diameter for Die Threading.md"
               }
             }
           }
@@ -148,10 +196,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "88e5f29dae425b8b",
+  "active": "b6b6dd08ec08ec28",
   "lastOpenFiles": [
-    "2023-01-29.md",
     "Stock Allowance for Machine Reaming.md",
-    "Glossary/Datum.md"
+    "Tap Drill Size.md",
+    "Part Diameter for Die Threading.md",
+    "Thread Nomenclature.md",
+    "README.md",
+    "Taps and Dies.md",
+    "Glossary/Threading (manufacturing).md",
+    "Glossary/Datum.md",
+    "2023-01-29.md"
   ]
 }
