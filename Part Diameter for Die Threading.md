@@ -10,4 +10,4 @@ Calculation: $0.5-((\frac{1}{13}) \div 7.5) = 0.489$
 Thread: M10 X 1.5  
 Calculation: $10-(1.5 \div 7.5)=9.8$
 
-#machining #threading #lathe #turning
+#machining #threading #turning
