@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Cutting Speed.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
