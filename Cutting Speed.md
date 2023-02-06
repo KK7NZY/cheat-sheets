@@ -26,7 +26,7 @@ The formula for calculating RPM is $(SFM\times(12\div\pi))\div d$, where $d$ is 
   $(90 \times 4) \div .3125 = 1152$
 - Milling aluminum with 3/8" endmill 
  
-  $(150 \times 4) \div .375 = 1600$$
+  $(150 \times 4) \div .375 = 1600$
 - Drilling stainless still using a 1/4" drill bit
     
     $(40 \times 4) \div .25 = 640$
