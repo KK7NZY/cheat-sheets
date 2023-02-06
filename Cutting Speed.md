@@ -29,7 +29,7 @@ If using carbde the result of calculation can be multipled by four.
 - Milling aluminum with 3/8" endmill 
  
   $(150 \times 4) \div .375 = 1600$
-- Drilling stainless still using a 1/4" drill bit
+- Drilling stainless steel using a 1/4" drill bit
     
     $(40 \times 4) \div .25 = 640$
 
