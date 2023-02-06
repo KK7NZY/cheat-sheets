@@ -19,6 +19,8 @@ It is critical to know the diamter of a material and its Surface feet per minute
 
 The formula for calculating RPM is $(SFM\times(12\div\pi))\div d$, where $d$ is the diamter of the material.  For manual machines, the formula can be simplified to $(SFM \times 4) \div d$.  
 
+If using carbde the result of calculation can be multipled by four. 
+
 **Examples**:
 
 - Turning a low carbon steel  5/16" in diamter
