@@ -11,7 +11,7 @@ It is critical to know the diamter of a material and its Surface feet per minute
 | Brass           | 150 - 200 | 45   |
 | Bronze          | 80 - 100  | 30   |
 | Stainless Steel | 40        | 12   |
-|                 |           |      |
+
 <small><i><sup>*</sup>Infornation in chart is for use with High Speed Steel tooling and does not consider variables such as rigidify of setup, cutting tool/insert or coolant et cet.</i></small>
 
 
