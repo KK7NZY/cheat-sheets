@@ -12,8 +12,7 @@ It is critical to know the diamter of a material and its Surface feet per minute
 | Bronze          | 80 - 100  | 30   |
 | Stainless Steel | 40        | 12   |
 
-<small><i><sup>*</sup>Information in chart is for use with High Speed Steel tooling and does not consider variables such as rigidify of setup, cutting tool/insert or coolant et cet.</i></small>
-
+<small><i><sup>*</sup>Information in chart is for use with High Speed Steel tooling and does not consider variables such as rigidify of setup, cutting tool/insert or coolant et cet. </i></small>
 
 ### Calculating RPM
 
@@ -37,3 +36,7 @@ If using carbde the result of calculation can be multipled by four.
 The calculated RPM is a **maximum**. It is prefereable to run slower and increase RPM as cuts are adjusted. 
 
 On a manual machine it may be necassary to choose an RPM that is closest to the calculated RPM without going over. 
+
+### Further Reading
+
+-  Machinery's Handbook Twentieth Edition Speeds & Feeds p. 1745, 1755, 1760,1784
