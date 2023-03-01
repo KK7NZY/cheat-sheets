@@ -6,7 +6,7 @@ It is critical to know the diamter of a material and its Surface feet per minute
 
 ### Calculating RPM
 
-The formula for calculating RPM is $(SFM\times(12\div\pi))\div d$, where $d$ is the diamter of the material.  For manual machines, the formula can be simplified to $(SFM \times 3.82) \div d$ or  $(SFM \times 4) \div d$.  
+The formula for calculating RPM is $(SFM\times(12\div\pi))\div d$, where $d$ is the diamter of the material.  It can be simplified to $(SFM \times 3.82) \div d$ or  $(SFM \times 4) \div d$.  
 
 **Examples**:
 
