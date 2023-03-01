@@ -22,7 +22,3 @@ The formula for calculating RPM is $(SFM\times(12\div\pi))\div d$, where $d$ is 
 The calculated RPM is a **maximum**. It is prefereable to run slower and increase RPM as cuts are adjusted. 
 
 On a manual machine it may be necassary to choose an RPM that is closest to the calculated RPM without going over. 
-
-### Further Reading
-
--  Machinery's Handbook Twentieth Edition Speeds & Feeds p. 1745, 1755, 1760,1784
