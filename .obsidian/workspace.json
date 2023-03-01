@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pre-Ream Drill Size Chart.md",
+                "file": "Cutting Speed.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eaf335d91c794d69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cutting-Speed Correction Factors for Feed and Depth of Cut When Turning.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pre-Ream Drill Size Chart.md",
+                "file": "Cutting-Speed Correction Factors for Feed and Depth of Cut When Turning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pre-Ream Drill Size Chart.md",
+                "file": "Cutting-Speed Correction Factors for Feed and Depth of Cut When Turning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,17 +138,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pre-Ream Drill Size Chart.md"
+                "file": "Cutting-Speed Correction Factors for Feed and Depth of Cut When Turning.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,15 +160,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "54251c1b293b05d5",
+  "active": "eaf335d91c794d69",
   "lastOpenFiles": [
     "Cutting Speed.md",
+    "Cutting-Speed Correction Factors for Feed and Depth of Cut When Turning.md",
     "Grinding Single Point Tools.md",
-    "Pre-Ream Drill Size Chart.md",
     "Part Diameter for Die Threading.md",
     "Stock Allowance for Machine Reaming.md",
-    "Tap Drill Size.md",
+    "Pre-Ream Drill Size Chart.md",
     "README.md",
+    "Tap Drill Size.md",
     "RPM & SFM.md",
     "Thread Nomenclature.md",
     "Taps and Dies.md"
