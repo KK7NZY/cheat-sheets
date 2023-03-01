@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "772128334bb45cb8",
+        "id": "e049cc88f918d09e",
         "type": "tabs",
         "children": [
           {
-            "id": "54251c1b293b05d5",
+            "id": "6bf3cd4b113acd3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Cutting Speed.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eaf335d91c794d69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cutting-Speed Correction Factors for Feed and Depth of Cut When Turning.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cutting-Speed Correction Factors for Feed and Depth of Cut When Turning.md",
+                "file": "Cutting Speed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cutting-Speed Correction Factors for Feed and Depth of Cut When Turning.md",
+                "file": "Cutting Speed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cutting-Speed Correction Factors for Feed and Depth of Cut When Turning.md"
+                "file": "Cutting Speed.md"
               }
             }
           }
@@ -147,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,15 +148,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eaf335d91c794d69",
+  "active": "6bf3cd4b113acd3e",
   "lastOpenFiles": [
-    "Cutting Speed.md",
     "Cutting-Speed Correction Factors for Feed and Depth of Cut When Turning.md",
+    "Turning SFPM.md",
+    "Cutting Speed.md",
     "Grinding Single Point Tools.md",
     "Part Diameter for Die Threading.md",
-    "Stock Allowance for Machine Reaming.md",
     "Pre-Ream Drill Size Chart.md",
     "README.md",
+    "Stock Allowance for Machine Reaming.md",
     "Tap Drill Size.md",
     "RPM & SFM.md",
     "Thread Nomenclature.md",
