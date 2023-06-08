@@ -26,4 +26,3 @@ Turning speeds are adjusted to the feed rate of (0.010/rev.), and depth of cut o
 |                                              |               |                  |
 
 <small>Machinery's Handbook Twentieth Edition p. 1755</small>
-

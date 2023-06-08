@@ -1,3 +1,15 @@
+The Machinery's Handbook Correction Factors can be used to adjust the cutting speeds (surface feet per minute - SFM) based on the feed rate (inches per revolution - IPR) and depth of cut (DOC) being used. These correction factors help account for the different chip load and tool engagement conditions at varying feed rates and depths of cut.
+
+Commonly used correction factors for feed rate (IPR) and depth of cut (DOC) in metal turning:
+
+| Feed Rate (IPR) | Feed Rate Correction Factor | Depth of Cut (DOC) | DOC Correction Factor |
+|-----------------|----------------------------|--------------------|-----------------------|
+| < 0.005         | 0.7                        | < 0.030 inches     | 0.7                   |
+| 0.005 - 0.020   | 1.0                        | 0.030 - 0.125 inches | 1.0                   |
+| > 0.020         | 1.2                        | > 0.125 inches     | 1.2                   |
+
+Machinery's Handbook
+
 | Feed, ipr | Correction Factor, F<sub>1</sub> | Depth of Cut | Correciton Factor, F<sub>4</sub> |
 | --------- | -------------------------------- | ------------ | -------------------------------- |
 | 0.003     | 2.00                             | 0.005        | 1.80                             |
@@ -18,4 +30,3 @@
 | 0.060     | 0.38                             | 1.000        | 0.66                             |
 
 <small>Machinery's Handbook Twentieth Edition p. 1760</small>
-
