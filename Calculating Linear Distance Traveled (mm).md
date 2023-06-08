@@ -12,33 +12,5 @@ Linear Travel = $2\times5=10$
 
 Therefore, the linear travel of the thread in this case would be 10 millimeters.
 
-Below is the most common diameter values, their corresponding diameter in inches, and the pitch used.
-| Diameter (mm) | Diameter (in) | Pitch (mm/rev) |
-|---------------|---------------|----------------|
-| 1             | 0.039         | 0.25           | 
-| 1.2           | 0.047         | 0.25           | 
-| 1.6           | 0.063         | 0.35           | 
-| 2             | 0.079         | 0.4            | 
-| 2.5           | 0.098         | 0.45           | 
-| 3             | 0.118         | 0.5            | 
-| 4             | 0.157         | 0.7            | 
-| 5             | 0.197         | 0.8            | 
-| 6             | 0.236         | 1.0            | 
-| 8             | 0.315         | 1.25           | 
-| 10            | 0.394         | 1.5            | 
-| 12            | 0.472         | 1.75           | 
-| 16            | 0.63          | 2.0            | 
-| 20            | 0.787         | 2.5            | 
-| 24            | 0.945         | 3.0            | 
-| 30            | 1.181         | 3.5            | 
-| 36            | 1.417         | 4.0            | 
-| 42            | 1.654         | 4.5            | 
-| 48            | 1.89          | 5.0            | 
-| 56            | 2.205         | 5.5            | 
-| 64            | 2.52          | 6.0            | 
-| 72            | 2.835         | 6.0            | 
-| 80            | 3.15          | 6.0            | 
-| 90            | 3.543         | 6.0            | 
-| 100           | 3.937         | 6.0            | 
-
+[[Metric Thread Table]]
 [[Calculating Linear Distance Traveled (inch)]]
