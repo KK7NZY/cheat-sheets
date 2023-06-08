@@ -1,6 +1,8 @@
 Reduce the major diameter of the part being threaded to permit proper crest clearance and avoid seizing the die on the part.
 
-The formula for calculating part diameter for die threading is $a - (b \div 7.5)$, where $a$ is the nominal diamter of thread and $b$ is the thread pitch.
+The formula used to calculate the part diameter for die threading is obtained by subtracting the thread pitch $b$ divided by 7.5 from the nominal diameter of the thread $a$.
+
+$\text{Part Diamter}=a-(b\div7.5)$
 
 **Examples**:
 

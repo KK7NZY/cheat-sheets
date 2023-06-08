@@ -7,7 +7,6 @@
 | 1/2 &ndash; 3/4      | .500 &ndash; .750     | .015 &ndash; .031 |
 | 3/4 &ndash; 1        | .750 &ndash; 1.000    | .031              |
 
-
 | Reamer Size (Metric) | Allowance       |
 | -------------------- | --------------- |
 | 1 &ndash; 3          | .07 &ndash; .14 |

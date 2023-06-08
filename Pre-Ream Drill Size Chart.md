@@ -1,4 +1,3 @@
-
 | Reamer Diameter | Drill for 2% Ream | Hole Size to Leave 2% | Drill for 3% Ream | Hole Size to Leave 3% |
 | --------------- | ----------------- | --------------------- | ----------------- | --------------------- |
 | 1/8 (0.1250)    | 31                | 0.1225                | 3.0MM             | 0.1213                |
