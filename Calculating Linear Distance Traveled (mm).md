@@ -12,7 +12,7 @@ Linear Travel = $2\times5=10$
 
 Therefore, the linear travel of the thread in this case would be 10 millimeters.
 
-Below is the most common diameter values, their corresponding diameter in inches, the pitch used, and the linear distance traveled in one rotation.
+Below is the most common diameter values, their corresponding diameter in inches, and the pitch used.
 | Diameter (mm) | Diameter (in) | Pitch (mm/rev) |
 |---------------|---------------|----------------|
 | 1             | 0.039         | 0.25           | 
