@@ -1,0 +1,1 @@
+A **fastener** (US English) or **fastening** (UK English) is an encompassing term that describes a broad range of tools. These tools include screws, bolts, nuts, etc., and they share a common aim. The aim is to enable the mechanical adherence of objects. In simple terms, fasteners help to hold objects in place or together mechanically.
