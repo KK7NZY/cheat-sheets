@@ -1,4 +1,4 @@
-The turning speeds provided on this page have been are adjusted based on a feed rate of 0.010 inches per revolution and a depth of cut of 0.050 inches. 
+The turning speeds provided on this page have been adjusted based on a feed rate of 0.010 inches per revolution and a depth of cut of 0.062 inches. 
 
 Please reference the sections [[Surface Speeds for Common Materials]] and [[Cutting-Speed Correction Factors for Feed and Depth of Cut When Turning]] for the specific values used in the table.
 
