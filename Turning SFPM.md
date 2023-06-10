@@ -2,6 +2,18 @@ Turning speeds are adjusted to the feed rate of (0.010/rev.), and depth of cut o
 
 [[Cutting-Speed Correction Factors for Feed and Depth of Cut When Turning]]
 
+| Material | HSS SFM (Range) | Carbide SFM (Range) |
+| -------- | --------------- | ------------------- |
+| 12L14    | 400-800         | 800-1600            |
+| 4140     | 200-400         | 600-1200            |
+| 1018     | 300-600         | 800-1500            |
+| 660      | 200-400         | 400-800             |
+| 303      | 500-1000        | 1200-2400           |
+| Delrin   | 500-1500        | 1000-3000           |
+| UHMW     | 100-500         | 300-1500            |
+| 6160     | 600-1000        | 1200-2000           |
+| Nylon    | 200-800         | 500-1500            |
+
 | AISI/SAE/ASTM Designation                    | HSS  Feet/Min | Carbide Feet/Min |
 | -------------------------------------------- | ------------- | ---------------- |
 | Free Machining Plain Carbon Steels (Leaded)  |               |                  |
