@@ -8,6 +8,9 @@ Commonly used correction factors for feed rate (IPR) and depth of cut (DOC) in m
 | 0.005 - 0.020  | 1.0                   | 0.030 - 0.125 inches | 1.0                   |
 | > 0.020        | 1.2                   | > 0.125 inches       | 1.2                   |
 
+
+Cutting factors  copied from the Machinery's Handbook:
+
 | Feed, IPR | Correction Factor, F₁ | Depth of Cut | Correction Factor, F₄ |
 | --------- | -------------------------------- | ------------ | -------------------------------- |
 | 0.003     | 2.00                             | 0.005        | 1.80                             |

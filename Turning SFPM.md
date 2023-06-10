@@ -1,20 +1,10 @@
-[[Cutting-Speed Correction Factors for Feed and Depth of Cut When Turning]]
+The turning speeds provided on this page have been are adjusted based on a feed rate of 0.010 inches per revolution and a depth of cut of 0.050 inches. 
 
-| Material | HSS SFM (Range) | Carbide SFM (Range) |
-| -------- | --------------- | ------------------- |
-| 12L14    | 400-800         | 800-1600            |
-| 4140     | 200-400         | 600-1200            |
-| 1018     | 300-600         | 800-1500            |
-| 660      | 200-400         | 400-800             |
-| 303      | 500-1000        | 1200-2400           |
-| Delrin   | 500-1500        | 1000-3000           |
-| UHMW     | 100-500         | 300-1500            |
-| 6160     | 600-1000        | 1200-2000           |
-| Nylon    | 200-800         | 500-1500            |
+Please reference the sections [[Surface Speeds for Common Materials]] and [[Cutting-Speed Correction Factors for Feed and Depth of Cut When Turning]] for the specific values used in the table.
 
-Turning speeds below are adjusted to the feed rate of (0.010/rev.), and depth of cut of 0.062.
+$\text{SFM}=\text{SFM Recommendation}\times\text{Feed Factor}\times\text{DOC Factor}$
 
-| AISI/SAE/ASTM Designation                    | HSS  Feet/Min | Carbide Feet/Min |
+| Material                                     | HSS  Feet/Min | Carbide Feet/Min |
 | -------------------------------------------- | ------------- | ---------------- |
 | Free Machining Plain Carbon Steels (Leaded)  |               |                  |
 | 12L14                                        | 142           | 483              |
@@ -38,3 +28,15 @@ Turning speeds below are adjusted to the feed rate of (0.010/rev.), and depth of
 |                                              |               |                  |
 
 <small>Machinery's Handbook Twentieth Edition p. 1755</small>
+
+| Material | HSS SFM (Range) | Carbide SFM (Range) |
+| -------- | --------------- | ------------------- |
+| 12L14    | 400-800         | 800-1600            |
+| 4140     | 200-400         | 600-1200            |
+| 1018     | 300-600         | 800-1500            |
+| 660      | 200-400         | 400-800             |
+| 303      | 500-1000        | 1200-2400           |
+| Delrin   | 500-1500        | 1000-3000           |
+| UHMW     | 100-500         | 300-1500            |
+| 6160     | 600-1000        | 1200-2000           |
+| Nylon    | 200-800         | 500-1500            |
