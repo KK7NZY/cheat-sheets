@@ -1,5 +1,3 @@
-Turning speeds are adjusted to the feed rate of (0.010/rev.), and depth of cut of 0.062.
-
 [[Cutting-Speed Correction Factors for Feed and Depth of Cut When Turning]]
 
 | Material | HSS SFM (Range) | Carbide SFM (Range) |
@@ -13,6 +11,8 @@ Turning speeds are adjusted to the feed rate of (0.010/rev.), and depth of cut o
 | UHMW     | 100-500         | 300-1500            |
 | 6160     | 600-1000        | 1200-2000           |
 | Nylon    | 200-800         | 500-1500            |
+
+Turning speeds below are adjusted to the feed rate of (0.010/rev.), and depth of cut of 0.062.
 
 | AISI/SAE/ASTM Designation                    | HSS  Feet/Min | Carbide Feet/Min |
 | -------------------------------------------- | ------------- | ---------------- |
