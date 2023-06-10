@@ -1,4 +1,5 @@
 ##### Most Common
+
 | Diameter | Coarse Pitch | Fine Pitch |
 | -------- | ------------ | ---------- |
 | 1        | 0.25         |            |
@@ -28,6 +29,7 @@
 | 100      |              | 6          |
 
 #### Not Common
+
 | Diameter | Coarse Pitch | Fine Pitch |
 | -------- | ------------ | ---------- |
 | 1.4      | 0.3          |            |
@@ -48,6 +50,7 @@
 | 95       |              |            |
 
 #### Special Applications
+
 | Diameter | Coarse Pitch | Fine Pitch |
 | -------- | ------------ | ---------- |
 | 7        | 1            |            |

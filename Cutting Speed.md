@@ -1,4 +1,4 @@
-It is critical to know the diamter of a material and its Surface feet per minute (SFM or SFPM) to calculate the correct RPM setting. 
+It is critical to know the diameter of a material and its Surface feet per minute (SFM or SFPM) to calculate the correct RPM setting. 
 
 - [[Turning SFPM]]
 - Milling SFPM
