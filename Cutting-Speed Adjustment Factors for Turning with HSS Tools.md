@@ -1,3 +1,6 @@
+#### Machinery's Handbook Twentieth Edition 
+<small>p. 1760</small>
+
 | Feed, IPR | Correction Factor, $F_1$ | Depth of Cut | Correction Factor, $F_4$ |
 | --------- | ------------------------ | ------------ | ------------------------ |
 | 0.003     | 2.00                     | 0.005        | 1.80                     |
@@ -17,7 +20,8 @@
 | 0.050     | 0.42                     | 0.750        | 0.70                     |
 | 0.060     | 0.38                     | 1.000        | 0.66                     |
 
-<small>Machinery's Handbook Twentieth Edition p. 1760</small>
+#### Machinery's Handbook Thirty First Edition 
+<small>p. 1104</small>
 
 | Feed  | Feed Factor $F_f$ | Depth of Cut | Depth of Cut Factor $F_d$ |
 | ----- | ----------------- | ------------ | ------------------------- |
@@ -48,7 +52,5 @@
 | 0.045 | 0.57              | 1.250        | 0.73                      |
 | 0.050 | 0.55              | 1.250        | 0.72                      |
 | 0.060 | 0.50              | 1.375        | 0.71                      |
-
-<small>Machinery's Handbook Thirty First Edition p. 1104</small>
 
 #machining 
