@@ -15,6 +15,7 @@ $\text{Linear Travel}=(1\div16)\times3=0.1875$
 Therefore, the linear distance traveled with this imperial thread would be 0.1875 inches.
 
 Below is a table with thread per inch values and their corresponding linear distance traveled in one rotation. Please note the values have been rounded to nearest thousandths.
+
 | Thread per Inch (TPI) | Linear Distance Traveled (in/rev) |
 |----------------------|----------------------------------|
 | 48                   | 0.021                            |
