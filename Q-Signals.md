@@ -19,5 +19,13 @@ Q-Signals most often used in amateur radio along with examples of their use case
 | QTC      | Message               | "I have QTCs for you. Can I send them?"              |
 | QTH      | Location              | "My QTH is Los Angeles, California."                 |
 | QTR      | Time                  | "Can you tell me the QTR of your last transmission?" |
+| QRL      | Are you busy?         | "QRL? Is this frequency in use?"                     |
+| QRZ      | Who is calling me?    | "QRZ? Please repeat your call sign."                 |
+| QRM      | Interference          | "QRM on this frequency. Please stand by."            |
+| QRP      | Low power             | "I'm operating QRP with 5 watts or less."            |
+| QRQ      | Send faster           | "QRQ please. I'm copying your signals."              |
+| QRS      | Send slower           | "Please QRS. I'm having trouble copying."            |
+| QRT      | Stop transmitting     | "QRT now. Thanks for the QSO."                       |
+| QSL      | Confirm reception     | "I QSL your 5/9 signal report."                      |
 
 #ham-radio
