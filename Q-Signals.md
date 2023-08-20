@@ -1,5 +1,5 @@
 
-Q-Signals most often used in amateur radio along with examples of their use cases.
+Q-Signals most often used in amateur radio along with examples of their use cases.  Refer to [Communicating with Other Hams PDF](https://www.arrl.org/files/file/Get%20on%20the%20Air/Comm%20w%20Other%20Hams-Q%20Signals.pdf) for more information.
 
 | Q Signal | Meaning               | Example Use Case                                     |
 | -------- | --------------------- | ---------------------------------------------------- |
