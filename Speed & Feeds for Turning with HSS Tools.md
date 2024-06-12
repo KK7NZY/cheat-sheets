@@ -1,5 +1,7 @@
 The turning speeds provided on this page have been adjusted based on a feed rate of 0.010 inches per revolution and a depth of cut of 0.047 inches. 
 
+[[Cutting-Speed Adjustment Factors for Turning with HSS Tools]]
+
 $V=V_\text{HSS}\times{F_f}\times{F_d}$
 
 | Material        | BHN     | HSS (fpm) |
@@ -12,6 +14,6 @@ $V=V_\text{HSS}\times{F_f}\times{F_d}$
 | 660             |         |           |
 | Nylon           |         |           |
 | UHMW            |         |           |
-| Delrin                |         |           |
+| Delrin          |         |           |
 
 #machining 

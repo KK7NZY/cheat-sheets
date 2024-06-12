@@ -1,4 +1,3 @@
-
 #### Calculating RPM
 
 To calculate the correct RPM (revolutions per minute) for a machining operation, you need to know the diameter of the material and its surface feet per minute which can be found in [[Speed & Feeds for Turning with HSS Tools]]. 
