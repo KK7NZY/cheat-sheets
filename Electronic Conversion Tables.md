@@ -15,7 +15,9 @@ Conversion table for the most common multiples of ohms.
 |    10,000 Ω |   10K   | 0.01M     |
 |   100,000 Ω |  100K   | 0.1M      |
 | 1,000,000 Ω | 1,000K  | **1M**    |
+
 In Europe the letter R, K, or M is substituted for a decimal point, to reduce the risk of errors. Thus, 5K6 in European circuit diagram means 5.6K, 6M8 means 6.8M, and 6R8 means 6.8 ohms. 
+
 #### Volts
 Conversion table for the most common multiples of volts. 
 
@@ -28,6 +30,7 @@ Conversion table for the most common multiples of volts.
 |    10,000mV |  10V   | 0.01kV     |
 |   100,000mV |  100V  | 0.1kV      |
 | 1,000,000mV | 1,000V | **1kV**    |
+
 #### Ampere
 Conversion table for the most common multiples of amps. 
 
