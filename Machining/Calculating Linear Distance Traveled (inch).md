@@ -1,4 +1,4 @@
-To calculate the linear distance traveled with an imperial thread, you would follow a similar approach as discussed in the section on [[calculating linear distance traveled (mm)]] for metric threads, but with the use of different units of measurement.
+To calculate the linear distance traveled with an imperial thread, you would follow a similar approach as discussed in the section on [[Calculating Linear Distance Traveled (mm)]] for metric threads, but with the use of different units of measurement.
 
 In imperial threads, the pitch is typically represented as threads per inch (TPI), which indicates the number of threads in one inch of linear distance. The number of rotations remains the same as before, representing the number of complete turns the screw or thread makes.
 
