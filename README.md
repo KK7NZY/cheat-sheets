@@ -1,0 +1,1 @@
+This Cheat-Sheets repository is my personal knowledge-base. Here you'll find code-snippets, technical documentation, and command reference for various tools, as well as notes on machining, woodworking, electronics and art.
