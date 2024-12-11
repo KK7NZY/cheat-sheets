@@ -2,3 +2,5 @@ Electrical potential is measured by adding up the charges of individual electron
 
 1 ampere = 1 coulomb / second
 (about 6.24 quintillion electrons/second)
+
+#electronics
